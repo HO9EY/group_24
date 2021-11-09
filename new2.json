@@ -2,8 +2,12 @@
 	"Name":"Nikita",
 	"Surname":"Arakcheev",
 	"Patronymic":"Andreeevich",
-	"Age":"23"
-	"Number of pets":"1"
-	"Future desired salary":"100000"
-
+	"Age":"23",
+	"Number of pets":"1",
+	"Future desired salary":"100000",
+	"Favorite movie":"Illusion of deception",
+	"Favorite series":"Sherlock",
+	"Favorite food":"Pasta",
+	"Favorite season":"Summer",
+	"Country":"Italy"
 }
